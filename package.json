@@ -1,0 +1,8 @@
+{
+  "name": "exemplo-buildAMD",
+  "version": "1.0.0",
+  "description": "exemplo de build de  modulos AMD ",
+  "main": "index.js",
+  "author": "Victor Hugo - @victorvhpg",
+  "license": "MIT"
+}
