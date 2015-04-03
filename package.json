@@ -4,5 +4,12 @@
   "description": "exemplo de build de  modulos AMD ",
   "main": "index.js",
   "author": "Victor Hugo - @victorvhpg",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "requirejs": "^2.1.17"
+  },
+  "scripts":{
+    "build" : "r.js -o build/config.build.js ",
+    "buildnode" : "cd build && node build-com-node.js "
+  }
 }
